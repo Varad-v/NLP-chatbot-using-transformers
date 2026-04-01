@@ -1,0 +1,13 @@
+2. Run the notebook
+3. Start chatting!
+
+## 📷 Sample Output
+User: Hello  
+Chatbot: Hi there! How can I help you today?
+
+## 📌 Conclusion
+This project showcases the power of transformer models in building conversational AI systems and demonstrates real-time interaction using pre-trained NLP models.
+
+---
+
+🚀 Developed as part of NLP Internship Task 3
